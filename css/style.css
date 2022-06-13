@@ -1,0 +1,87 @@
+header{
+    padding-top: 20px;
+    padding-left: 5px;
+    background-color:#569ae9;
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    background-size: 300px;
+}
+.logo-container{
+    width: 200px;
+}
+.logo-container img{
+    width: 100%;
+    height: 100%;
+}
+section{
+    margin: 20px 0px;
+}
+.title-section{
+    color: #5f5f5f;
+}
+.title-article{
+    color: #000;
+    font-size: 35px;
+    margin: 0px;
+}
+.em-article{
+    color: #00b7ff;
+}
+.foto-container{
+    height: 400px;
+}
+.foto-container img{
+    height: 100%;
+}
+.foto-info{
+    font-size: 14px;
+    margin: 5px 0;
+}
+.ev-article{
+    background-color: #eeff00;
+}
+ul{
+    padding-left: 20px;
+    margin: 40px 0;
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+thead{
+    color: #fff;   
+}
+#head-table{
+    background-color: #00b7ff;
+}
+th{
+    margin: 0;
+    width: 300px;
+}
+#long{
+    width: calc(100% - 600px);
+}
+.disp{
+    background-color: #8fe9ff;
+}
+.more-article{
+    color: #2e2e2e;
+}
+#tech{
+    background-image: url(/img/monitor.jpg);
+}
+#stock{
+    background-image: url(/img/graph.jpg);
+}
+.card{
+    margin: 10px 0;
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
